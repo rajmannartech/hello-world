@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> NEW! JAI SRIMANNAARAYANA register for DevOps Learning</h1>
+    <h1> BRAND NEW! JAI SRIMANNAARAYANA register for DevOps Learning</h1>
     <p>HOW TO DO THIS - Please fill in this form to create an account.</p>
     <hr>
      
